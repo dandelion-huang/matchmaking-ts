@@ -1,0 +1,6 @@
+export { default as MatchmakingSystem } from './System/MatchmakingSystem'
+export { default as Coord } from './System/Coord'
+export { default as Reverse } from './Strategy/Reverse'
+export { default as DistanceBasedMatchmakingStrategy } from './Strategy/DistanceBasedMatchmakingStrategy'
+export { default as HabitBasedMatchmakingStrategy } from './Strategy/HabitBasedMatchmakingStrategy'
+export { default as Individual } from './System/Individual'
